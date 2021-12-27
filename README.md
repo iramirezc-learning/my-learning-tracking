@@ -2,6 +2,52 @@
 
 This is a personal repository to keep track of the subjects I am learning.
 
+## Books
+
+### Algorithms (4th e) - Robert Sedgewick, Kevin Wayne
+
+> 👾 **Repositories:**
+> * https://github.com/iramirezc-learning/algorithms-4th-book-java
+> * https://github.com/iramirezc-learning/algorithms-4th-book-javascript
+>
+> 🏁 **Started On:** Aug 27, 2018 (first commit)
+>
+> ✅ **Completed On:** I hope 2022 is the year where I can finally complete this book.
+>
+> ⏱ **Total Time:** ---
+
+### Test-Driven JavaScript Development - Christian Johansen
+
+> 👾 **Repository:** https://github.com/iramirezc-learning/test-driven-js-development-book
+>
+> 🏁 **Started On:** Jun 18, 2018 (first commit)
+>
+> ✅ **Completed On:** Feb 13, 2020 (last commit)
+>
+> ⏱ **Total Time:** > 60 hours, 25 minutes (145 pomodoros with Be Focused starting from Chapter 3)
+
+### Learning JavaScript Design Patterns - Addy Osmani
+
+> 👾 **Repository:** https://github.com/iramirezc-learning/learning-js-design-patterns-book
+>
+> 🏁 **Started On:** Oct 13, 2017 (first commit)
+>
+> ✅ **Completed On:** The new book edition is ready, I guess I won't complete this book.
+>
+> ⏱ **Total Time:** No idea.
+
+### Computer Science Distilled - Wladston Ferreira
+
+> 👾 **Repository:** https://github.com/iramirezc-learning/computer-science-distilled-book
+>
+> 🏁 **Started On:** Jun 26, 2017 (first commit)
+>
+> ✅ **Completed On:** No idea if I will ever finish this book.
+>
+> ⏱ **Total Time:** No idea either 🤷🏻‍♂️
+
+---
+
 ## [Frontend Masters](https://frontendmasters.com)
 
 ### Visual Studio Code Can Do That?
